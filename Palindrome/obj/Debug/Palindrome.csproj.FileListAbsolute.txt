@@ -1,0 +1,6 @@
+/Users/keithwillis/Projects/Palindrome/Palindrome/bin/Debug/Palindrome.exe
+/Users/keithwillis/Projects/Palindrome/Palindrome/bin/Debug/Palindrome.pdb
+/Users/keithwillis/Projects/Palindrome/Palindrome/obj/Debug/Palindrome.csprojAssemblyReference.cache
+/Users/keithwillis/Projects/Palindrome/Palindrome/obj/Debug/Palindrome.csproj.CoreCompileInputs.cache
+/Users/keithwillis/Projects/Palindrome/Palindrome/obj/Debug/Palindrome.exe
+/Users/keithwillis/Projects/Palindrome/Palindrome/obj/Debug/Palindrome.pdb
